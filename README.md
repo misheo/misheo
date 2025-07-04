@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Said Nassar</h1>
 <h3 align="center">A passionate Software engineer from Egypt</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=misheo&label=Profile%20views&color=0e75b6&style=flat" alt="misheo" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=misheo" alt="misheo" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+- 🔭 I’m currently working on [MACLink](https://apps.apple.com/ca/app/maclink/id6502847350&ved=2ahUKEwiJpLSFqqSOAxUzQvEDHQIfPNkQFnoECAsQAQ&usg=AOvVaw2uKZaTi56lRe5m6m5vVpuU)
 
-- 🔭 I’m currently working on [MACLink](Cogense)
+- 🌱 I’m currently learning **Rust**
 
-- 👯 I’m looking to collaborate on [social media platform](e-commerce)
+- 🔭 I’m currently working on [Cogens](https://cogens.com)
 
 - 💬 Ask me about **Flutter, Django and Nextjs**
 
@@ -25,5 +23,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=misheo&show_icons=true&locale=en&layout=compact" alt="misheo" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=misheo&show_icons=true&locale=en" alt="misheo" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=misheo&" alt="misheo" /></p>
