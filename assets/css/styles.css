@@ -141,7 +141,7 @@ img {
   }
 }
 .nav__item {
-  margin-bottom: var(--mb-4);
+  /* margin-bottom: var(--mb-4); */
 }
 .nav__link {
   color: var(--text-color);
